@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "ES2023",
+        "module": "NodeNext",
+        "outDir": "dist",
+        "rootDir": ".",
+        "types": ["node", "jest"],
+        "moduleResolution": "NodeNext",
+        "isolatedModules": true,
+        "skipLibCheck": true
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "src/**/*.ts",
+        "src/**/*.tsx",
+        "src/**/*.js",
+        "tests/**/*.ts",
+        "jest.config.ts",
+        "playwright.config.ts"
+    ]
+}
