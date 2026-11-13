@@ -1,4 +1,4 @@
-###  Project 0 — Vanilla Todo HTTP API
+### Vanilla Todo HTTP API
 
 API REST de gestion de tâches développée avec Node.js et TypeScript. Ce projet implémente un CRUD complet avec validation de données, gestion rigoureuse des erreurs HTTP et tests automatisés.
 
@@ -47,6 +47,7 @@ Cette section regroupe les preuves de succès pour chaque exigence fonctionnelle
 ### 1. Demarrage du serveur
 
 Commande : `npm run dev`
+
 Result : 
 <details>
 
@@ -72,6 +73,7 @@ Result :
 ### 3. Resultats des Tests : E2E
 
 Commande : `npm run test:e2e`
+
 Result : 
 <details>
 

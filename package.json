@@ -1,8 +1,7 @@
 {
   "name": "project-0",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "API REST de gestion de tâches (Node.js, Express, TypeScript, Zod)",
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsc",

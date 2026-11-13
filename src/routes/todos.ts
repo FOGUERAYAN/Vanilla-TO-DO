@@ -6,7 +6,7 @@ import {
   ListTodosQuerySchema, 
   IdParamsSchema 
 } from '../schemas.js';
-import { filterTodos, sortTodos } from '../../src/helper.js';
+import { filterTodos, sortTodos } from '../helper.js';
 const router = Router();
 
 router.get('/', (req, res) => {
